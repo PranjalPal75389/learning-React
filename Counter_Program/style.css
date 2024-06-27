@@ -1,0 +1,17 @@
+.counter-display {
+    font-size:80px;
+    margin-top:20px;
+    margin-bottom:5px;
+}
+.counter-container{
+    text-align:center;
+    font-family:monospace;
+}
+.counter-button{
+    font-size:25px;
+    margin-left:5px;
+    background-color:lightblue;
+    border-radius:5px;
+    padding:5px;
+    cursor:pointer;
+}
