@@ -21,6 +21,6 @@ const[status,setStatus]=useState("false");
        <p>Age={age}</p> 
       <button onClick={updateAge}>Increment age</button>
        <p>Employed Status={status ?"yes":"no"}</p> 
-      <button onClick={updateStatus}>Hello</button>
+      <button onClick={updateStatus}>Toggle</button>
   </div>
 }
